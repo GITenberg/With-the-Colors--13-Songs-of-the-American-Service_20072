@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '9065'
     url: http://www.gutenberg.org/2009/agents/9065
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/20072#With-the-Colors--13-Songs-of-the-American-Service
 gutenberg_bookshelf: Bestsellers, American, 1895-1923
 gutenberg_issued: '2006-12-09'
 gutenberg_type: Text
