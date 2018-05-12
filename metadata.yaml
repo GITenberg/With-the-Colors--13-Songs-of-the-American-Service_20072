@@ -1,0 +1,28 @@
+_repo: With-the-Colors--13-Songs-of-the-American-Service_20072
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Appleton, Everard Jack
+    birthdate: 1872
+    deathdate: 1931
+    gutenberg_agent_id: '9065'
+    url: http://www.gutenberg.org/2009/agents/9065
+description: ''
+gutenberg_bookshelf: Bestsellers, American, 1895-1923
+gutenberg_issued: '2006-12-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20072'
+  lccn: '17028610'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'World War, 1914-1918 -- Poetry'
+- !lcc 'PS'
+title: "With the Colors\r\nSongs of the American Service"
+url: http://www.gutenberg.org/ebooks/20072
